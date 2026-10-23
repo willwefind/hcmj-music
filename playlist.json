@@ -1,0 +1,40 @@
+{
+  "songs": [
+    {
+      "title": "何曾梦觉",
+      "file": "he-zeng-meng-jue.mp3"
+    },
+    {
+      "title": "长川向晚",
+      "file": "chang-chuan-xiang-wan.mp3"
+    },
+    {
+      "title": "借影",
+      "file": "jie-ying.mp3"
+    },
+    {
+      "title": "怨偶",
+      "file": "yuan-ou.mp3"
+    },
+    {
+      "title": "问蛊",
+      "file": "wen-gu.mp3"
+    },
+    {
+      "title": "檐外春",
+      "file": "yan-wai-chun.mp3"
+    },
+    {
+      "title": "春山归客",
+      "file": "chun-shan-gui-ke.mp3"
+    },
+    {
+      "title": "春山见",
+      "file": "chun-shan-jian.mp3"
+    },
+    {
+      "title": "默海",
+      "file": "mo-hai.mp3"
+    }
+  ]
+}
