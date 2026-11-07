@@ -35,6 +35,21 @@
     {
       "title": "默海",
       "file": "mo-hai.mp3"
+    },
+    {
+      "title": "半镜",
+      "file": "ban-jing.mp3",
+      "repo": "hcmj-music-2"
+    },
+    {
+      "title": "深宫曲",
+      "file": "shen-gong-qu.mp3",
+      "repo": "hcmj-music-2"
+    },
+    {
+      "title": "红尘心",
+      "file": "hong-chen-xin.mp3",
+      "repo": "hcmj-music-2"
     }
   ]
 }
